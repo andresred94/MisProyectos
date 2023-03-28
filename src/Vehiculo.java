@@ -35,6 +35,7 @@ public class Vehiculo {
 			permitido = false;
 		}
 		System.out.println("Hola");
+		System.out.println("Prueba 2: uso de git que no es lo mismo que GitHub");
 		
 		return permitido;		
 	}
