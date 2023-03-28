@@ -34,10 +34,8 @@ public class Vehiculo {
 		} else {
 			permitido = false;
 		}
-
-		return permitido;
-		
 		System.out.println("Hola");
 		
+		return permitido;		
 	}
 }
