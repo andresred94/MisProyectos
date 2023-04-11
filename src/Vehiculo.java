@@ -41,6 +41,7 @@ public class Vehiculo {
 		System.out.println("Prueba 5: ¿Veo estos cambios en GitHub?");
 		System.out.println("Prueba 6: No veo cambios en GitHub ¿?");
 		System.out.println("Prueba 7: Ahora si se hacen los cambios");
+		System.out.println("Prueba 7: Ahora si se hacen los cambios");
 		return permitido;		
 	}
 }
